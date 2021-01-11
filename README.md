@@ -4,7 +4,7 @@
 
 #### Data
 - Great Britain Road Safety Data
-- ref: https://data.gov.uk/dataset/cb7ae6f0-4be6-4935-9277-47e5ce24a11f/road-safety-data
+- reference: https://data.gov.uk/dataset/cb7ae6f0-4be6-4935-9277-47e5ce24a11f/road-safety-data
 - Highly unbalanced dataset with 3 classes: Fatal, Serious, Slight (of 0.5%/14%/84.5%) 
 
 #### Tools:
